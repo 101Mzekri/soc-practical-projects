@@ -26,3 +26,10 @@ All datasets are **sanitized** (no real usernames/IPs/domains/hostnames).
 2. Review evidence in `data/`
 3. Check hunting queries in `detections/`
 4. Read final report in `report/final-report.md`
+
+
+## Skills Demonstrated
+- Log analysis (Linux & Windows)
+- Authentication attack detection
+- Incident classification (True vs False Positive)
+- SOC-style documentation

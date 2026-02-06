@@ -1,0 +1,5 @@
+Feb 06 10:01:12 server1 sshd[1201]: Failed password for invalid user admin from 203.0.113.50 port 54421 ssh2
+Feb 06 10:01:18 server1 sshd[1201]: Failed password for invalid user admin from 203.0.113.50 port 54422 ssh2
+Feb 06 10:01:25 server1 sshd[1201]: Failed password for invalid user admin from 203.0.113.50 port 54423 ssh2
+Feb 06 10:02:10 server1 sshd[1302]: Failed password for user01 from 203.0.113.50 port 54510 ssh2
+Feb 06 10:02:40 server1 sshd[1302]: Accepted password for user01 from 203.0.113.50 port 54599 ssh2

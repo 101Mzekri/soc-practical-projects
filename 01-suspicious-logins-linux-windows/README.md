@@ -33,3 +33,9 @@ All datasets are **sanitized** (no real usernames/IPs/domains/hostnames).
 - Authentication attack detection
 - Incident classification (True vs False Positive)
 - SOC-style documentation
+
+
+## Detections
+- `detections/linux-ssh-bruteforce.md`
+- `detections/windows-rdp-bruteforce.md`
+- `detections/ioc-list.txt`
